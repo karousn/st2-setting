@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/PHP-Twig/Extras/Themes/Monokai Dark.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage",
+		"TrailingSpaces"
+	],
+	"theme": "Nexus.sublime-theme"
+}

@@ -1,0 +1,43 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"Code Alignment",
+		"Git",
+		"GitHubinator",
+		"Haml",
+		"HTML Snippets",
+		"HTML5",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"pastebin-sublime-plugin",
+		"PHP-Twig",
+		"PhpBeautifier",
+		"Prefixr",
+		"Search Anywhere",
+		"Search in Browser",
+		"SFTP",
+		"SideBarGit",
+		"Simple Ember.js Navigator",
+		"ST2SyntaxFromFileName",
+		"sublime-symfony",
+		"Symfony2 Snippets",
+		"SymfonyCommander",
+		"Terminal",
+		"Tortoise",
+		"TrailingSpaces",
+		"Twig"
+	],
+	"repositories":
+	[
+		"https://github.com/nucleartux/sublime-symfony.git",
+		"https://github.com/Anomareh/PHP-Twig.tmbundle.git",
+		"https://github.com/purplefish32/sublime-text-2-twig.git",
+		"git://github.com/raulfraile/sublime-symfony2.git",
+		"git://github.com/nucleartux/sublime-symfony.git",
+		"git://github.com/raulfraile/sublime-symfony2.git",
+		"git://github.com/Anomareh/PHP-Twig.tmbundle.git",
+		"git://github.com/nilium/st2-nil-theme.git"
+	]
+}
